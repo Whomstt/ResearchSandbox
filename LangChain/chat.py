@@ -1,3 +1,5 @@
+# References: https://python.langchain.com/docs/introduction/
+
 import getpass
 import os
 from dotenv import load_dotenv

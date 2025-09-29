@@ -1,3 +1,5 @@
+# References: https://python.langchain.com/docs/tutorials/agents/
+
 # Import relevant functionality
 from langchain.chat_models import init_chat_model
 from langchain_tavily import TavilySearch
